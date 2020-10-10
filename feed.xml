@@ -3,7 +3,7 @@
     <title>Test</title>
     <link href="https://thanhtuht.github.io/animewallpaper/feed.xml" rel="self" />
     <link href="https://thanhtuht.github.io/animewallpaper" />
-    <updated>2020-10-10T20:18:53+07:00</updated>
+    <updated>2020-10-10T20:50:50+07:00</updated>
     <author>
         <name>Test</name>
     </author>
@@ -14,18 +14,18 @@
         <author>
             <name>Test</name>
         </author>
-        <link href="https://thanhtuht.github.io/animewallpaper/2.html"/>
-        <id>https://thanhtuht.github.io/animewallpaper/2.html</id>
+        <link href="https://thanhtuht.github.io/animewallpaper/2/"/>
+        <id>https://thanhtuht.github.io/animewallpaper/2/</id>
 
-        <updated>2020-10-10T20:18:53+07:00</updated>
+        <updated>2020-10-10T20:50:50+07:00</updated>
             <summary>
                 <![CDATA[
-                    2
+                    COng hoa xa hoi chu nghia viet nam
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>2</p>
+                <p>COng hoa xa hoi chu nghia viet nam</p>
             ]]>
         </content>
     </entry>
@@ -34,8 +34,8 @@
         <author>
             <name>Test</name>
         </author>
-        <link href="https://thanhtuht.github.io/animewallpaper/hello.html"/>
-        <id>https://thanhtuht.github.io/animewallpaper/hello.html</id>
+        <link href="https://thanhtuht.github.io/animewallpaper/hello/"/>
+        <id>https://thanhtuht.github.io/animewallpaper/hello/</id>
 
         <updated>2020-10-10T20:17:30+07:00</updated>
             <summary>

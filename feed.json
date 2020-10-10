@@ -10,22 +10,22 @@
     },
     "items": [
         {
-            "id": "https://thanhtuht.github.io/animewallpaper/2.html",
-            "url": "https://thanhtuht.github.io/animewallpaper/2.html",
+            "id": "https://thanhtuht.github.io/animewallpaper/2/",
+            "url": "https://thanhtuht.github.io/animewallpaper/2/",
             "title": "2",
-            "summary": "2",
-            "content_html": "<p>2</p>",
+            "summary": "COng hoa xa hoi chu nghia viet nam",
+            "content_html": "<p>COng hoa xa hoi chu nghia viet nam</p>",
             "author": {
                 "name": "Test"
             },
             "tags": [
             ],
             "date_published": "2020-10-10T20:18:39+07:00",
-            "date_modified": "2020-10-10T20:18:53+07:00"
+            "date_modified": "2020-10-10T20:50:50+07:00"
         },
         {
-            "id": "https://thanhtuht.github.io/animewallpaper/hello.html",
-            "url": "https://thanhtuht.github.io/animewallpaper/hello.html",
+            "id": "https://thanhtuht.github.io/animewallpaper/hello/",
+            "url": "https://thanhtuht.github.io/animewallpaper/hello/",
             "title": "Hello",
             "summary": "Hello",
             "content_html": "<p>Hello</p>",
