@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test</title>
+    <link href="https://thanhtuht.github.io/animewallpaper/feed.xml" rel="self" />
+    <link href="https://thanhtuht.github.io/animewallpaper" />
+    <updated>2020-10-10T20:18:53+07:00</updated>
+    <author>
+        <name>Test</name>
+    </author>
+    <id>https://thanhtuht.github.io/animewallpaper</id>
+
+    <entry>
+        <title>2</title>
+        <author>
+            <name>Test</name>
+        </author>
+        <link href="https://thanhtuht.github.io/animewallpaper/2.html"/>
+        <id>https://thanhtuht.github.io/animewallpaper/2.html</id>
+
+        <updated>2020-10-10T20:18:53+07:00</updated>
+            <summary>
+                <![CDATA[
+                    2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Test</name>
+        </author>
+        <link href="https://thanhtuht.github.io/animewallpaper/hello.html"/>
+        <id>https://thanhtuht.github.io/animewallpaper/hello.html</id>
+
+        <updated>2020-10-10T20:17:30+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
